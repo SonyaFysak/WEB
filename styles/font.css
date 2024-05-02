@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/6433f416d4f655969ebecdc0_Gilroy-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/6433f416f63339ba525cdd87_Gilroy-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/6433f416d2cec356fdd2ba72_Gilroy-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/6433f416aba8deec0cf316a9_Gilroy-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/6433f416932cca39a61892c5_Gilroy-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/6433f41571b76f0cf1171218_Gilroy-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/6433f4162af27848e0d21584_Gilroy-Light.ttf') format('truetype'), url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/6433f4162af278466fd21585_Gilroy-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/6433f416f548743c389e1439_Gilroy-Extrabold.ttf') format('truetype'), url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/6433f4161f92be4c7b10f3c8_Gilroy-ExtraBold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zapfinoextralt two';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/64425556dd0ba0c6e5122f6d_ZapfinoExtraLT-Two.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zapfinoextralt one';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/64425556fee77f6f41c80fea_ZapfinoExtraLT-One.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zapfinoforteltpro';
+    src: url('https://uploads-ssl.webflow.com/6400d82951450021c2d1eb7b/64425556fee77f32e5c80feb_ZapfinoForteLTPro.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
